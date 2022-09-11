@@ -1,0 +1,14 @@
+.page{
+    height: 100vh;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background: gray;
+}
+
+.name{
+    display: flex;
+    align-items: center;
+    font-size: 64px;
+    color: black;
+}
